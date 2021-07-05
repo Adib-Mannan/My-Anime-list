@@ -1,19 +1,31 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 h1{ 
     font-size: 50px;}
 .aquilius{color: red;} 
 .section{
     display: flex;
-    margin-bottom: 10%;
+    margin-bottom: 150px;
+    text-align: justify ;
 }
-.felixble{
+.naru{
     width: 50%;
-    padding-left: 70px;
-}   
-.felixble img{
-    width: 70%;
+    padding-left: 5%;
+}
+.naru img{
+    width:80%;
+    padding-left: 10%;
+}
+.hina{
+    width: 50%;
+    padding-left: 5% ;
+    padding-right: 5%;
+}
+.hina img{
+    width: 80%;
+    padding-left: 10%;
 }
 .link-button{
     text-decoration:none ;
